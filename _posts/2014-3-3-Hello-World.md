@@ -1,9 +1,9 @@
 ---
 layout: post
-title: You're up and running!
+title: Monstro Cololeiro BALÃO!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Ele não anda, somente fica em cima da cama respirando através de aparelhos devido sua obesidade!
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
